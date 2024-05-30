@@ -14,7 +14,14 @@
     z-index: 999;
   }
 
-  
+  .navbar__container {
+    height: 80px;
+    z-index: 1;
+    top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
 
   #navbar__logo {
     background-color: #ff8177;
@@ -26,7 +33,6 @@
     cursor: pointer;
     text-decoration: none;
     font-size: 2rem;
-    justify-content: center;
   }
   
   
